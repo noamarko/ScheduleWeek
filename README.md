@@ -1,4 +1,3 @@
-# schedule_week
 A program that creates a weekly schedule for swimming pool lessons
 
 The first page - Input student details:
