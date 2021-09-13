@@ -1,4 +1,7 @@
 A program that creates a weekly schedule for swimming pool lessons
+Server side written in Python.
+Client side written in React.
+
 
 The first page - Input student details:
 
